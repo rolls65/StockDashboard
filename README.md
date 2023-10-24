@@ -5,6 +5,7 @@ The data set comprises of intra-day prices and volume traded for each listed com
 The data serves both for machine learning and exploratory analysis projects, to automate the trading process and to predict the next trading-day winners or losers.. 
 
 **Dashboard**
+  Tableau is used to create Dashboard
   Dashboard contains
  1)Total number of companiesin each sector
  2) Find the top 10 companies that are good for investment
